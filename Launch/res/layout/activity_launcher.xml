@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+
+    <RelativeLayout 
+       android:id="@+id/buttonBar"
+       android:layout_margin="0dp"
+       android:layout_width="fill_parent"
+       android:layout_height="60dp"
+        android:background="#3399FF">
+
+        <Button
+            android:id="@+id/google"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Google"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/yahoo"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_alignBaseline="@+id/google"
+            android:layout_alignBottom="@+id/google"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="16dp"
+            android:text="Yahoo"
+            android:textSize="15sp" />
+       
+        </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/greyBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#C0C0C0" >
+    </LinearLayout>
+
+ </LinearLayout>

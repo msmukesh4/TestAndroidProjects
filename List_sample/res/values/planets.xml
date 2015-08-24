@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<string-array name="planets">
+	    <item name="mercury">Mercury</item>
+	    <item name="venus">Venus</item>\
+	    <item name="earth">Earth</item>
+	    <item name="mars">Mars</item>
+	    <item name="jupiter">Jupiter</item>	    
+	    <item name="saturn">Saturn</item>
+	    <item name="uranus">Uranus</item>
+	    <item name="neptune">Neptune</item>
+	</string-array>    
+	
+</resources>

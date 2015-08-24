@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentWIthListview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+     <string-array name="list">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+    
+    <string-array name="detais">
+         <item name="item1_details">Item 1 Details and all the stuff that u have onlu thought about</item>
+         <item name="item1_details">Item 2 Details and all the stuff that u have onlu thought about</item>
+         <item name="item1_details">Item 3 Details and all the stuff that u have onlu thought about</item>
+         <item name="item1_details">Item 4 Details and all the stuff that u have onlu thought about</item>                 
+    </string-array>
+
+</resources>

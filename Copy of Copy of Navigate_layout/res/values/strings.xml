@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Navigation_Drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="nav_data">
+        <item name="name">Mukesh Sharma</item>
+        <item name="earth">Earth</item>
+        <item name="jupiter">Jupiter</item>
+        <item name="mars">Mars</item>
+        <item name="help">Help</item>
+        <item name="sign_out">Sign Out</item>
+    </string-array>
+</resources>

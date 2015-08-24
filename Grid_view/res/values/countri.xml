@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="countri">
+        <item name="australia">Australia</item>
+        <item name="brazil">Brazil</item>
+        <item name="canada">Canada</item>
+        <item name="france">France</item>
+        <item name="germany">Germany</item>
+        <item name="india">India</item>
+        <item name="israel">Israel</item>
+        <item name="italy">Italy</item>
+        <item name="japan">Japan</item>
+        <item name="southafrica">South Africa</item>
+        <item name="uk">United Kingdom</item>
+        <item name="usa">United States</item>
+    </string-array>
+    
+</resources>
