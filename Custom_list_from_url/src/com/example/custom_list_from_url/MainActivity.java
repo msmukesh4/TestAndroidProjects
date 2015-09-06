@@ -80,7 +80,7 @@ public class MainActivity extends Activity implements OnItemClickListener{
 			for(int i=0;i<urls.length;i++){
 			    country_list = new countries(urls[i], tag[i]);
 				listdata.add(country_list);
-		}
+			}
 		}
 		
 		@Override
